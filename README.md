@@ -1,21 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project integrating [Anon Aadhaar](https://github.com/privacy-scaling-explorations/anon-aadhaar)
-
-## Getting Started
-
-First, install the dependencies:
-
-```bash
-yarn install
-```
-
-Add your appId under `NEXT_PUBLIC_APP_ID` to your `.env.local`
-
-Then, run the development server:
-
-```bash
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can use our test file `./public/signed.pdf` with the password `test123` to generate a proof.
+This project is build for Hacthechain https://hackthechain2.devfolio.co/ 
+BLOCHAIN USE - POLYGON ETHERIUM 
+CONTRACT ADRESS : https://mumbai.polygonscan.com/tx/0xbacd866b15e1cc910adad519798c0257c702ea49a4d55b8b5f12d4b733e7da0a (main contract) , https://mumbai.polygonscan.com/address/0x0D9bbd206F427766Be50d5B9d5F5005740EAFe82( merchant contract)
